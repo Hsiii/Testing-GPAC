@@ -1,0 +1,1 @@
+./kvazaar -i input.yuv --input-res 4096x2048 -o tiled.hvc --tiles 3x3 --slices tiles --mv-constraint frametilemargin --input-fps 30
